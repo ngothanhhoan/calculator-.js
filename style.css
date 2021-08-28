@@ -54,8 +54,8 @@
     border-radius: 50%;
     background: #333;
     cursor: pointer;
-    /* transition: filter .3s; */
-  
+    transition: filter .3s;
+
     display: flex;
     justify-content: center;
   }
